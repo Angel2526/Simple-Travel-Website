@@ -1,2 +1,2 @@
 # Simple-Travel-Website
-Travel Website using HTML and CSS
+**EMERLAD TRAVELS is a Simple Travel Website,built using HTMLand CSS**
